@@ -1,4 +1,4 @@
-# 💄 GlowFile ✨
+# 💄 GlossFile 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Aesthetic-Pastel%20%2F%20Beauty-pink?style=for-the-badge&logoColor=white&color=F3C6C6" alt="Aesthetic Badge" />
